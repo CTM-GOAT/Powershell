@@ -1,4 +1,4 @@
-#All the computers
+#All the computers.
 invoke-command -computername COBRA-CIST, ZONNON, PERL, BASH, PROLOG, MYTHRYL, TEX, MESA, COLDFUSION, DELPHI, PASCAL, BATCH, FORTRAN, KAYLA, MAPLE, ONYX, BLISS, PYTHON, BASIC, DBASE, SQUEAK, DYNAMO, COBOL, BOOMERANG -scriptblock {
 Add-Type -AssemblyName System.speech
 Add-Type -TypeDefinition @'
